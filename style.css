@@ -18,3 +18,8 @@ li {
     color: blueviolet;
     font-weight: bold;
 }
+.images {
+    text-align: center;
+    margin-left: auto;
+    padding-left: 0%;
+}
